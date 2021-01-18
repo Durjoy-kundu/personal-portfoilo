@@ -1,0 +1,144 @@
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+.blue-color{
+    color: rgb(3, 3, 58);
+}
+
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+.half-side{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-side img{
+    width: 70%;
+}
+.half-section img{
+    width: 70%;
+}
+
+
+section{
+    height: 600px;
+}
+
+h2{
+    font-size: 40;
+}
+p{
+    color: dimgray;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image:linear-gradient(45deg,orange, tomato);
+
+
+}
+
+   
+.btn {
+    background-image:linear-gradient(45deg,lightsalmon,orange);
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+
+}
+.red-color{
+    color: red;
+}
+.align{
+    text-align: center;
+    padding-top: 7%;
+}
+.projects{
+    background-color: whitesmoke;
+    padding-bottom: 5%;
+}
+.three-part{
+    width:25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.three-part img{
+    width: 90%;
+    padding-top: 10%;
+    
+}
+.shadow{
+    box-shadow:10px 10px 10px gray;
+    border-radius: 5px;
+    height: 60%;
+
+}
+h3{
+    color: rgb(3, 3, 58);
+}
+.work-inquary{
+  
+    width: 70%;
+    margin: auto;
+    padding: 80px 60px;
+    border-radius: 30px;
+    overflow: hidden;
+    background: url('bg.png') no-repeat scroll center center /cover;
+    padding-top:60px;
+    
+}
+
+.work-inquary h3{
+    font-size: 30px;
+    
+    margin: 0;
+    padding: 0;
+    letter-spacing: 2px;
+    color: white;
+}
+.inquary-section{
+    padding-top: 10%;
+}
+
+
+.half{
+    float: left;
+    width: 50%;
+}
+.inquary-btn{
+text-align: right;
+}
+.gray{
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.gmail{
+    font-size: 36px;
+    color: #363958;
+    padding: 20px 0;
+    margin: 0;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+}
