@@ -135,10 +135,10 @@ text-align: right;
 }
 .gmail{
     font-size: 36px;
-    color: #363958;
-    padding: 20px 0;
-    margin: 0;
-    text-decoration: none;
-    display: inline-block;
     text-align: center;
+}
+.ankhor{
+
+  color: rgb(3, 3, 58);
+  text-decoration: none;
 }
